@@ -22,6 +22,7 @@ pip install matplotlib
                  Assignment on Module 7:
 
 Exploratory Data Analysis (EDA) on the Titanic Dataset
+
 📌 Project Overview
 
 This project is part of Module 7 Assignment for the AI Engineer / Data Science course.
@@ -39,19 +40,21 @@ Identify the most significant factors affecting survival
 
 The dataset contains passenger-level information, including:
 
-Column Name	Description
-PassengerId	Unique ID for each passenger
-Survived	Survival status (0 = No, 1 = Yes)
-Pclass	Ticket class (1st, 2nd, 3rd)
-Name	Passenger name
-Sex	Passenger gender
-Age	Age in years
-SibSp	Number of siblings/spouses aboard
-Parch	Number of parents/children aboard
-Ticket	Ticket number
-Fare	Passenger fare
-Cabin	Cabin number
-Embarked	Port of embarkation (C, Q, S)
+Column Name	                    Description
+PassengerId	                Unique ID for each passenger
+Survived	                Survival status (0 = No, 1 = Yes)
+Pclass	                    Ticket class (1st, 2nd, 3rd)
+Name	                    Passenger name
+Sex	                        Passenger gender
+Age	                        Age in years
+SibSp	                    Number of siblings/spouses aboard
+Parch	                    Number of parents/children aboard
+Ticket	                    Ticket number
+Fare	                    Passenger fare
+Cabin	                    Cabin number
+Embarked	                Port of embarkation (C, Q, S)
+
+
 🔗 Dataset Source
 
 GitHub Repository (DataScienceDojo):
